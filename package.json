@@ -1,0 +1,23 @@
+{
+  "name": "paymentsds-js-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonlaice/paymentsds-js-implementation.git"
+  },
+  "author": "Elton Tomas Laice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltonlaice/paymentsds-js-implementation/issues"
+  },
+  "homepage": "https://github.com/eltonlaice/paymentsds-js-implementation#readme",
+  "dependencies": {
+    "@paymentsds/mpesa": "0.1.0-alpha-5",
+    "express": "^4.17.1"
+  }
+}
